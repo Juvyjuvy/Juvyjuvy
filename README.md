@@ -12,15 +12,12 @@
       background: url('https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif') fixed center no-repeat;
       background-size: cover;
     }
-
-    .header-container {
+ .header-container {
       padding: 100px;
       text-align: center;
       color: #fff;
       background: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better text visibility */
     }
-
-    /* Additional styling for sections */
     section {
       background: rgba(255, 255, 255, 0.9); /* Add a semi-transparent white background for better text visibility */
       padding: 20px;
