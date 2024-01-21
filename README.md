@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 
 <head>
   <meta charset="UTF-8">
@@ -16,10 +15,10 @@
       padding: 100px;
       text-align: center;
       color: #fff;
-      background: rgba(0, 0, 0, 0.5); /* Add a semi-transparent background for better text visibility */
+      background: rgba(0, 0, 0, 0.5); 
     }
     section {
-      background: rgba(255, 255, 255, 0.9); /* Add a semi-transparent white background for better text visibility */
+      background: rgba(255, 255, 255, 0.9); 
       padding: 20px;
       margin: 20px;
       border-radius: 10px;
