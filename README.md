@@ -1,5 +1,10 @@
 <!DOCTYPE html>
+<html lang="en">
+
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JUVY</title>
   <style>
     body {
       margin: 0;
@@ -17,43 +22,49 @@
 
 <body>
 
-
-    # Hello,! 👋
-
-    I'm [Juvy E. Abballe], a passionate learner and student just like you! 📚✨
-
-    ## About Me
-
-    - 🎓 Currently pursuing [Batchelor of Science Information Technology] at [St Peter's College Iligan City]
-    - 🌐 Love exploring new technologies and coding projects
-    - 📖 Always eager to learn and share knowledge
-
-    ## My Interests
-
-    - 💻 Programming and Software Development
-    - 🚀 Entrepreneurship and Innovation
-
+  <!-- Header with Background Image -->
+  <div class="header-container">
+    <h1>Hello, Students! 👋</h1>
+    <p>I'm [Juvy E. Abballe], a passionate learner and student just like you! 📚✨</p>
   </div>
 
+  <!-- About Me Section -->
+  <section>
+    <h2>About Me</h2>
+    <ul>
+      <li>🎓 Currently pursuing [Batchelor of Science Information Technology] at [St Peter's College Iligan City]</li>
+      <li>🌐 Love exploring new technologies and coding projects</li>
+      <li>📖 Always eager to learn and share knowledge</li>
+    </ul>
+  </section>
 
-  ## Skills
+  <!-- My Interests Section -->
+  <section>
+    <h2>My Interests</h2>
+    <ul>
+      <li>💻 Programming and Software Development</li>
+      <li>🚀 Entrepreneurship and Innovation</li>
+    </ul>
+  </section>
 
-
-  - 🌐 Web Development: HTML, CSS, JavaScript
-  
+  <!-- Skills Section -->
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>🌐 Web Development: HTML, CSS, JavaScript</li>
+    </ul>
+  </section>
 
   <!-- Let's Connect Section -->
-  ## Let's Connect
-
-  - 📫 Reach me via [Email](juvyaballe.202201044.@gmail.com)
-  - 📘 Connect with me on [Facebook](https://www.facebook.com/jayar.aballe.50)
-
-  Looking forward to connecting with fellow students and learning together! 🚀✨
+  <section>
+    <h2>Let's Connect</h2>
+    <ul>
+      <li>📫 Reach me via <a href="mailto:juvyaballe.202201044@gmail.com">Email</a></li>
+      <li>📘 Connect with me on <a href="https://www.facebook.com/jayar.aballe.50">Facebook</a></li>
+    </ul>
+    <p>Looking forward to connecting with fellow students and learning together! 🚀✨</p>
+  </section>
 
 </body>
 
 </html>
-
-
-
-
