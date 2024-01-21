@@ -1,36 +1,8 @@
 
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Page Title</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      background: url('https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif') fixed center no-repeat;
-      background-size: cover;
-    }
- .header-container {
-      padding: 100px;
-      text-align: center;
-      color: #fff;
-      background: rgba(0, 0, 0, 0.5); 
-    }
-    section {
-      background: rgba(255, 255, 255, 0.9); 
-      padding: 20px;
-      margin: 20px;
-      border-radius: 10px;
-    }
-  </style>
-</head>
 
-<body>
-
-  <!-- Header with GIF Background -->
   <div class="header-container">
-    <h1>Hello, Students! 👋</h1>
+    <h1>Hello! 👋</h1>
     <p>I'm [Juvy E. Abballe], a passionate learner and student just like you! 📚✨</p>
   </div>
 
