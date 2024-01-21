@@ -1,16 +1,11 @@
 <!DOCTYPE html>
-<html>
-
 <head>
   <style>
-    /* Add any additional styles here */
     body {
       margin: 0;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     }
-
-  
-   .header-container {
+ .header-container {
       background-image: url('https://i.pinimg.com/564x/97/be/84/97be845fe67153bbcc98071abc8e46ee.jpg');
       background-size: cover;
       padding: 100px;
@@ -22,8 +17,6 @@
 
 <body>
 
-
-  <div class="header-container">
 
     # Hello,! 👋
 
