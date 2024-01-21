@@ -1,8 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Page Title</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+.header-container {
+      background-image: url('https://i.pinimg.com/564x/97/be/84/97be845fe67153bbcc98071abc8e46ee.jpg');
+      background-size: cover;
+      padding: 100px;
+      text-align: center;
+      color: #fff;
+    }
 
-  <!-- Header with Background Image -->
+  
+  
   <div class="header-container">
-    <h1>Hello, Students! 👋</h1>
+    <h1>Hello,! 👋</h1>
     <p>I'm [Juvy E. Abballe], a passionate learner and student just like you! 📚✨</p>
   </div>
 
